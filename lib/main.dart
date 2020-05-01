@@ -67,6 +67,11 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
+
+
+
+
+
   @override
   Widget build(BuildContext context) {
     // This method is rerun every time setState is called, for instance as done
@@ -115,6 +120,12 @@ class _MyHomePageState extends State<MyHomePage> {
         onPressed: _incrementCounter,
         tooltip: 'Increment',
         child: Icon(Icons.add),
+
+
+
+
+
+
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
